@@ -1,4 +1,4 @@
-# C-_GetPCInformation
+# C++_GetPCInformation
 Get computer information using C++
 
 
